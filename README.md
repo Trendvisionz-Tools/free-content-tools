@@ -28,7 +28,7 @@ Practical browser-based tools for creators, digital marketers, SEO professionals
 
 **Jump to a category:**
 
-[🖼️ Image Tools](#-image-tools) • [🔍 SEO & Content Tools](#-seo--content-tools) • [📄 Productivity Tools](#-productivity-tools)
+[🖼️ Image Tools](#️-image-tools) • [🔍 SEO & Content Tools](#-seo--content-tools) • [📄 Productivity Tools](#-productivity-tools)
 
 ---
 
@@ -39,22 +39,22 @@ Optimise, convert, enhance and manage your digital images.
 | 📦 Image Compressor | 🔄 Image Converter |
 |:---|:---|
 | Reduce image file size while maintaining the visual quality needed for websites, blogs and social media. | Convert JPG, PNG, WebP, AVIF and other supported image formats with convenient output settings. |
-| **[🔗 LAUNCH TOOL](https://trendvisionz.com/image-compressor-online/)** | **[🔗 LAUNCH TOOL](https://trendvisionz.com/image-converter-online/)** |
+| [![Click Here](https://img.shields.io/badge/CLICK_HERE-2563eb?style=for-the-badge)](https://trendvisionz.com/image-compressor-online/) | [![Click Here](https://img.shields.io/badge/CLICK_HERE-2563eb?style=for-the-badge)](https://trendvisionz.com/image-converter-online/) |
 
 | 📍 Geotag Photos Online | 🛡️ AI Metadata Cleaner |
 |:---|:---|
 | Add or edit GPS location metadata in photos for better location-based image organisation. | Inspect and remove embedded AI-related, EXIF, GPS and other image metadata. |
-| **[🔗 LAUNCH TOOL](https://trendvisionz.com/geotag-photos-online/)** | **[🔗 LAUNCH TOOL](https://trendvisionz.com/ai-metadata-cleaner/)** |
+| [![Click Here](https://img.shields.io/badge/CLICK_HERE-2563eb?style=for-the-badge)](https://trendvisionz.com/geotag-photos-online/) | [![Click Here](https://img.shields.io/badge/CLICK_HERE-2563eb?style=for-the-badge)](https://trendvisionz.com/ai-metadata-cleaner/) |
 
 | ✨ Image Upscaler | 👁️ WebP & AVIF Viewer |
 |:---|:---|
 | Increase image resolution and improve visible detail for digital content and creative projects. | Open and preview WebP and AVIF images directly in your browser. |
-| **[🔗 LAUNCH TOOL](https://trendvisionz.com/image-upscaler-online/)** | **[🔗 LAUNCH TOOL](https://trendvisionz.com/avif-webp-viewer/)** |
+| [![Click Here](https://img.shields.io/badge/CLICK_HERE-2563eb?style=for-the-badge)](https://trendvisionz.com/image-upscaler-online/) | [![Click Here](https://img.shields.io/badge/CLICK_HERE-2563eb?style=for-the-badge)](https://trendvisionz.com/avif-webp-viewer/) |
 
 | 📐 Image Resizer | 🔤 Image to Text |
 |:---|:---|
 | Resize images by dimensions, percentage or presets for websites and social media. | Extract editable text from images, screenshots and scanned documents using OCR. |
-| **[🔗 LAUNCH TOOL](https://trendvisionz.com/image-resizer/)** | **[🔗 LAUNCH TOOL](https://trendvisionz.com/image-to-text/)** |
+| [![Click Here](https://img.shields.io/badge/CLICK_HERE-2563eb?style=for-the-badge)](https://trendvisionz.com/image-resizer/) | [![Click Here](https://img.shields.io/badge/CLICK_HERE-2563eb?style=for-the-badge)](https://trendvisionz.com/image-to-text/) |
 
 ---
 
@@ -65,7 +65,7 @@ Improve search presentation, evaluate headlines and streamline content workflows
 | 📝 Headline Analyzer | 🔎 SERP Snippet Generator |
 |:---|:---|
 | Evaluate headline clarity, impact, curiosity and search potential before publishing content. | Preview Google search titles and meta descriptions to refine how your pages appear in search results. |
-| **[🔗 LAUNCH TOOL](https://trendvisionz.com/headline-analyzer/)** | **[🔗 LAUNCH TOOL](https://trendvisionz.com/serp-snippet-generator/)** |
+| [![Click Here](https://img.shields.io/badge/CLICK_HERE-2563eb?style=for-the-badge)](https://trendvisionz.com/headline-analyzer/) | [![Click Here](https://img.shields.io/badge/CLICK_HERE-2563eb?style=for-the-badge)](https://trendvisionz.com/serp-snippet-generator/) |
 
 ---
 
@@ -76,7 +76,7 @@ Simplify document handling, research and everyday publishing tasks.
 | 📚 Citation Generator | 📊 PPT to Word |
 |:---|:---|
 | Generate properly formatted citations for academic writing, research and reference management. | Convert PowerPoint presentation content into an editable Word document. |
-| **[🔗 LAUNCH TOOL](https://trendvisionz.com/citation-generator/)** | **[🔗 LAUNCH TOOL](https://trendvisionz.com/ppt-to-word/)** |
+| [![Click Here](https://img.shields.io/badge/CLICK_HERE-2563eb?style=for-the-badge)](https://trendvisionz.com/citation-generator/) | [![Click Here](https://img.shields.io/badge/CLICK_HERE-2563eb?style=for-the-badge)](https://trendvisionz.com/ppt-to-word/) |
 
 ---
 
@@ -109,9 +109,9 @@ Simplify document handling, research and everyday publishing tasks.
 
 Explore all 12 tools and discover practical utilities designed to make digital work easier.
 
-### **[🚀 VISIT THE FREE TOOLS HUB](https://trendvisionz.com/tools/)**
+### 🚀 Explore the Complete Toolkit
 
-[![Explore Trendvisionz](https://img.shields.io/badge/EXPLORE_ALL_TOOLS-Trendvisionz.com-2563eb?style=for-the-badge)](https://trendvisionz.com/tools/)
+[![Explore All Tools](https://img.shields.io/badge/EXPLORE_ALL_12_TOOLS-CLICK_HERE-2563eb?style=for-the-badge)](https://trendvisionz.com/tools/)
 
 <br>
 
@@ -127,6 +127,6 @@ Trendvisionz is a digital publication offering insights, resources and free onli
 
 <sub>© 2026 Trendvisionz. All rights reserved.</sub>
 
-<sub>This repository showcases the publicly accessible tools hosted on Trendvisionz.com. Proprietary source code is not included.</sub>
+<sub>This repository showcases publicly accessible tools hosted on Trendvisionz.com. Proprietary source code is not included.</sub>
 
 </div>
