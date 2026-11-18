@@ -1,61 +1,66 @@
-# Trendvisionz – Free Online Tools for SEO, Images & Content
 
-Free online tools developed by **Trendvisionz** for content creators, digital marketers, SEO professionals, bloggers, publishers and developers.
+<div align="center">
 
-Explore our growing collection of practical utilities for image optimisation, metadata management, content creation and digital productivity.
+# 🚀 Trendvisionz Free Content Tools
 
-**[Explore All Free Tools](https://trendvisionz.com/tools/)**
+### Smart Tools. Simpler Workflows. Better Productivity.
 
-## Featured Free Tools
+Free online utilities for content creators, SEO professionals, digital marketers, bloggers and developers.
 
-### 1. AI Metadata Cleaner
-Inspect and remove embedded AI-related metadata, EXIF information, GPS location data and other image metadata.
+![Free Forever](https://img.shields.io/badge/Free-Forever-22c55e)
+![Online Tools](https://img.shields.io/badge/Tools-Online-2563eb)
+![Content & SEO](https://img.shields.io/badge/Content-%26_SEO-8b5cf6)
 
-**[Use AI Metadata Cleaner](https://trendvisionz.com/ai-metadata-cleaner/)**
+### [🌐 Explore All Free Tools](https://trendvisionz.com/tools/)
 
-### 2. Image Converter
-Convert images between JPG, PNG, WebP and supported AVIF formats. Adjust image quality and dimensions as needed.
+</div>
 
-**[Use Image Converter](https://trendvisionz.com/image-converter-online/)**
+---
 
-### 3. Image Compressor
-Reduce image file sizes while maintaining the visual quality needed for websites, blogs, social media and digital publishing.
+## 🧰 Explore Our Tools
 
-**[Use Image Compressor](https://trendvisionz.com/image-compressor-online/)**
+| 🛡️ AI Metadata Cleaner | 🖼️ Image Converter |
+|:---|:---|
+| Inspect and remove embedded image metadata, including EXIF, GPS and AI-related information. | Convert images between supported formats, including JPG, PNG, WebP and AVIF. |
+| **[🔗 Open Metadata Cleaner](https://trendvisionz.com/ai-metadata-cleaner/)** | **[🔗 Open Image Converter](https://trendvisionz.com/image-converter-online/)** |
 
-### 4. Image Geotagging Tool
-Add or edit GPS location metadata in photos for location-based image management.
+| 📦 Image Compressor | 📍 Image Geotagging |
+|:---|:---|
+| Reduce image file sizes for websites, blogs, publishing and social media. | Add or edit GPS location metadata for location-based photo management. |
+| **[🔗 Open Image Compressor](https://trendvisionz.com/image-compressor-online/)** | **[🔗 Open Geotagging Tool](https://trendvisionz.com/geotag-photos-online/)** |
 
-**[Use Image Geotagging](https://trendvisionz.com/geotag-photos-online/)**
+---
 
-## Who Can Use These Tools?
+## ✨ Why Use Trendvisionz Tools?
 
-- Content creators and social media managers
-- SEO professionals and digital marketers
-- Bloggers and website publishers
-- Designers and developers
-- Businesses and digital agencies
+- ✅ Free online access
+- ✅ No software installation required
+- ✅ Easy browser-based workflows
+- ✅ Built for creators, marketers and developers
+- ✅ Practical tools for everyday content tasks
 
-## Why Trendvisionz Tools?
+---
 
-- Free online access
-- Straightforward browser-based workflows
-- Practical image and content utilities
-- No software installation required for the featured tools
-- A growing collection of digital productivity tools
+## 👥 Who Are These Tools For?
 
-## Access the Complete Toolkit
+**Content Creators** · **SEO Professionals** · **Digital Marketers** · **Bloggers** · **Developers** · **Publishers**
 
-**[Trendvisionz Free Online Tools](https://trendvisionz.com/tools/)**
+---
 
-Official website: **[Trendvisionz.com](https://trendvisionz.com/)**
+<div align="center">
 
-## About This Repository
+## 🌐 Discover More Free Tools
 
-This repository showcases tools available through Trendvisionz. The tools are hosted on the official website. This repository does not contain their proprietary source code.
+Explore the growing collection of digital utilities from Trendvisionz.
 
-## About Trendvisionz
+### **[🚀 Visit Trendvisionz Free Tools](https://trendvisionz.com/tools/)**
 
-Trendvisionz is a digital publication offering content, insights and online utilities covering technology, digital marketing, lifestyle and emerging trends.
+**[Official Website](https://trendvisionz.com/)**
 
-© 2026 Trendvisionz. All rights reserved.
+---
+
+<sub>Developed by Trendvisionz | © 2026 Trendvisionz</sub>
+
+<sub>This repository showcases publicly accessible tools. Proprietary source code is not included.</sub>
+
+</div>
